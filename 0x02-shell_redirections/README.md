@@ -1,1 +1,1 @@
-It prints "Hello, World"
+It prints Hello, World
